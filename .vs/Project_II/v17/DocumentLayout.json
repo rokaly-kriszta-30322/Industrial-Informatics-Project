@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36BAF79-2500-465A-8145-7317BDFECC46}|Project_II.Server\\Project_II.Server.csproj|d:\\k\\university\\anul_iii\\sem ii\\ii\\project\\project_ii\\project_ii.server\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36BAF79-2500-465A-8145-7317BDFECC46}|Project_II.Server\\Project_II.Server.csproj|solutionrelative:project_ii.server\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|d:\\k\\university\\anul_iii\\sem ii\\ii\\project\\project_ii\\project_ii.client\\src\\components\\userseebookings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|solutionrelative:project_ii.client\\src\\components\\userseebookings.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|d:\\k\\university\\anul_iii\\sem ii\\ii\\project\\project_ii\\project_ii.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|solutionrelative:project_ii.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|d:\\k\\university\\anul_iii\\sem ii\\ii\\project\\project_ii\\project_ii.client\\src\\components\\climbingmanagementcomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|solutionrelative:project_ii.client\\src\\components\\climbingmanagementcomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|d:\\k\\university\\anul_iii\\sem ii\\ii\\project\\project_ii\\project_ii.client\\src\\components\\subs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20D81A43-B8AA-4059-9FA5-8119592DA6F6}|project_ii.client\\project_ii.client.esproj|solutionrelative:project_ii.client\\src\\components\\subs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\Project_II.Server\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Project_II.Server\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\Project_II.Server\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Project_II.Server\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T22:36:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSeeBookings.jsx",
+              "DocumentMoniker": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\Components\\UserSeeBookings.jsx",
+              "RelativeDocumentMoniker": "project_ii.client\\src\\Components\\UserSeeBookings.jsx",
+              "ToolTip": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\Components\\UserSeeBookings.jsx",
+              "RelativeToolTip": "project_ii.client\\src\\Components\\UserSeeBookings.jsx",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-29T21:47:26.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "project_ii.client\\src\\App.jsx",
+              "ToolTip": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\App.jsx",
+              "RelativeToolTip": "project_ii.client\\src\\App.jsx",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-29T21:25:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClimbingManagementComponent.jsx",
+              "DocumentMoniker": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\Components\\ClimbingManagementComponent.jsx",
+              "RelativeDocumentMoniker": "project_ii.client\\src\\Components\\ClimbingManagementComponent.jsx",
+              "ToolTip": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\Components\\ClimbingManagementComponent.jsx",
+              "RelativeToolTip": "project_ii.client\\src\\Components\\ClimbingManagementComponent.jsx",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-29T21:24:14.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subs.jsx",
+              "DocumentMoniker": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\Components\\Subs.jsx",
+              "RelativeDocumentMoniker": "project_ii.client\\src\\Components\\Subs.jsx",
+              "ToolTip": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\src\\Components\\Subs.jsx",
+              "RelativeToolTip": "project_ii.client\\src\\Components\\Subs.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-29T19:36:33.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gfpwaxl8yicziK+JJZ4ooZLWubY31BO/LtQoBw0tqPA=",
+  "Source": "Project_II.Server",
+  "BasePath": "_content/Project_II.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\K\\University\\Anul_III\\Sem II\\II\\project\\Project_II\\project_ii.client\\project_ii.client.esproj",
+      "Version": 2,
+      "Source": "project_ii.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
